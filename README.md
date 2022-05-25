@@ -1,2 +1,8 @@
 # Repo for AWS Learning
-16.5.2
+16.4.1
+
+Make sure to:
+
+pip install nltk
+
+python -m nltk.downloader popular
