@@ -1,5 +1,5 @@
 # Repo for AWS Learning
-16.4.1
+16.6.1
 
 Make sure to:
 
